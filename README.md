@@ -1,5 +1,5 @@
 # ventas.github.io
-Una muestra para un cliente
+Carrito de Compras
 ![Screenshot](logoEk.jpg)
 ![Screenshot](./img/carrito.png)
 
