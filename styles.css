@@ -3,3 +3,21 @@
   height: 90px;
   padding: 0 30px;
 }
+
+
+footer {
+  background-color: purple;
+  padding: 20px 10px;
+}
+
+/* Sets all link texts to white and puts margin to the left and right */
+
+footer a {
+  color: white;
+  margin: 0 10px;
+}
+
+footer a:hover {
+  color: #9867C5;
+  border-bottom: 2px solid #9867C5;
+}
